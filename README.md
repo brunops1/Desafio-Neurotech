@@ -7,8 +7,10 @@ Visão de dados (features de negócio) que poderá ser utilizada como entrada pa
 
 # Tecnologias utilizadas
 - Python
+- SQL
 
 ## Bibliotecas Utilizadas
+- PySpark
 - Panda
 - Numpy
 - SKLearn
