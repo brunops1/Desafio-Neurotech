@@ -16,12 +16,11 @@
 
 # Como executar o projeto
 
-1 - Instalar o sklearn 
+1 - Instalar o sklearn e pyspark
 
-!pip instalar sklearn
 
-2 - Subir arquivo csv
-https://archive.ics.uci.edu/ml/machine-learning-databases/00514/
+2 - Subir todos os arquivos csv
+http://ftp.dadosabertos.ans.gov.br/FTP/PDA/TISS/HOSPITALAR/2019/
 
 3 - Executar o código
 
