@@ -25,6 +25,21 @@ http://ftp.dadosabertos.ans.gov.br/FTP/PDA/TISS/HOSPITALAR/2019/
 
 3 - Executar o código
 
+Quais dados você removeria da tabela única? Por quê?
+
+R- Das Planilhas CONS eliminei os dados 
+
+Quais Técnicas foram utilizadas para avaliar a qualidade dos dados?
+
+R-
+
+Quais dados brutos podem ter maior potencial de informação para a empresa?
+
+R-
+
+Que estratégia você sugeria para ingerir e manter os dados atualizados na nuvem?
+
+R-
 
 Texto base
 
