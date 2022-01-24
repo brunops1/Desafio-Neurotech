@@ -2,7 +2,8 @@
 
 # Sobre o projeto
 
- Aplicação e avaliação de modelo de Machine Learning para estimar a variável Next_Tmax
+Análise exploratória para avaliar a consistência dos dados 
+Visão de dados (features de negócio) que poderá ser utilizada como entrada para o treinamento de um modelo. 
 
 # Tecnologias utilizadas
 - Python
