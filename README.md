@@ -27,7 +27,7 @@ http://ftp.dadosabertos.ans.gov.br/FTP/PDA/TISS/HOSPITALAR/2019/
 
 Quais dados você removeria da tabela única? Por quê?
 
-R- Das Planilhas CONS eliminei os dados 
+R- Das Planilhas CONS eliminei as colunas  
 
 Quais Técnicas foram utilizadas para avaliar a qualidade dos dados?
 
