@@ -54,9 +54,9 @@ Numpy para operações matemáticas
 Seaborn para análise gráfica
 Pyplot para análise gráfica
 
-Devido ao curto tempo hábil — pois como bem sabem, precisei conciliar o projeto com meu trabalho — foquei em uma análise mais genérica, abordando o domínio e conhecimento sobre as bibliotecas utilizadas. Na primeira versão optei por utilizar as seguintes métricas: Mean Absolute Error,Mean Squared Error e Root Mean Squared Error
-
-Alternativamente a isto, caso houvesse mais recursos, poderia buscar um maior aprofundamento dos dados, proporcionando um melhor entendimento sobre o tema, bem como poderia testar outros modelos. Através do desafio conheci uma infinidade de modelos, no quais precisaria de mais tempo para entendê-los e ter mais argumentos para sua escolha. 
+Devido ao curto tempo hábil — pois como bem sabem, precisei conciliar o projeto com meu trabalho — foquei em uma análise mais genérica, abordando o domínio e conhecimento sobre as bibliotecas utilizadas. Nunca tinha trabalhado com Spark, foi bem interessante a experiência, mas um desafio de fato. Na primeira versão optei por utilizar as seguintes métricas: Mean Absolute Error,Mean Squared Error e Root Mean Squared Error. 
 Para esta entrega, busquei demonstrar as habilidades mínimas para a função desejada, mas vale ressaltar que há muito a ser desenvolvido dentro da área de conhecimento proposta. 
 
 No mais, agradeço o desafio. Pude aprender bastante e fico a disposição para realizar os ajustes necessários.
+
+Não está finalizado, mas é uma versão prévia. Estou fazendo uma parte, todo dia, após largar.
